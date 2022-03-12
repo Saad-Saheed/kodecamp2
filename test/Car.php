@@ -12,8 +12,9 @@ class Car {
     
     // public function spec()
     // {
-    //     // trait is part of the class that implement it
-    //     //so "vin" is a property of Car
+    //     // trait is part of the class that use it
+    //     // so "vin" is a property of Car.
+    //     // so we can access it regardless of it being declared as private
     //     return $this->vin;
     // }
 }
